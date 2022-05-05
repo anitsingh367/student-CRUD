@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Info about the Project
+
+This project was made using Angular as the base framework and Angular Material as the UI library for the basic components.
+It is just to show the basic CRUD functionality without any backend framework which violates the immutability of objects but that is just for the sake of understanding the basic functionalities. This is any way is not the best-practice. 
